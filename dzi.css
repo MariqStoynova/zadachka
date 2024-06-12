@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 1000px;
+	font-family: Verdana;
+}
+
+#main{
+	height: 250px;
+	background-color: #fce7ab;
+}
+
+#main h1{
+	text-align: center;
+	color: #df1d01;
+	font-size: 34px;
+}
+
+#main > div{
+	height: 34px;
+}
+
+#main p{
+text-align: right;
+}
